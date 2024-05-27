@@ -1,9 +1,9 @@
 # Model_CarSales
 
-##Task
+# Problem Statement
 As a regional manager for a chain of car dealerships you need to create some visualizations to allow you to understand your car sales and profits for each dealer.
 
-## Problem Statement
+## Problem Objectives
 Create visualizations for the following captured KPI metrics:
 - Quantity Sold by Dealer ID
 - Profit by Date and Model
